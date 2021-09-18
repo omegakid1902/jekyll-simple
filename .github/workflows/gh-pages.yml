@@ -42,4 +42,4 @@ jobs:
         token: ${{ secrets.JEKYLL_SIMPLE_SECRET }}
         repo: omegakid1902.github.io
         owner: omegakid1902
-        event_type: publish_jekyll_garden
+        event_type: publish_jekyll_simple
